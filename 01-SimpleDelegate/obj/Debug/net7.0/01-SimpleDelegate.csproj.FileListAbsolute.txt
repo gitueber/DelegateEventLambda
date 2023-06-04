@@ -1,0 +1,15 @@
+D:\prg\learn\csharp\DelegateEventLambda\01-SimpleDelegate\bin\Debug\net7.0\01-SimpleDelegate.exe
+D:\prg\learn\csharp\DelegateEventLambda\01-SimpleDelegate\bin\Debug\net7.0\01-SimpleDelegate.deps.json
+D:\prg\learn\csharp\DelegateEventLambda\01-SimpleDelegate\bin\Debug\net7.0\01-SimpleDelegate.runtimeconfig.json
+D:\prg\learn\csharp\DelegateEventLambda\01-SimpleDelegate\bin\Debug\net7.0\01-SimpleDelegate.dll
+D:\prg\learn\csharp\DelegateEventLambda\01-SimpleDelegate\bin\Debug\net7.0\01-SimpleDelegate.pdb
+D:\prg\learn\csharp\DelegateEventLambda\01-SimpleDelegate\obj\Debug\net7.0\01-SimpleDelegate.csproj.AssemblyReference.cache
+D:\prg\learn\csharp\DelegateEventLambda\01-SimpleDelegate\obj\Debug\net7.0\01-SimpleDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\prg\learn\csharp\DelegateEventLambda\01-SimpleDelegate\obj\Debug\net7.0\01-SimpleDelegate.AssemblyInfoInputs.cache
+D:\prg\learn\csharp\DelegateEventLambda\01-SimpleDelegate\obj\Debug\net7.0\01-SimpleDelegate.AssemblyInfo.cs
+D:\prg\learn\csharp\DelegateEventLambda\01-SimpleDelegate\obj\Debug\net7.0\01-SimpleDelegate.csproj.CoreCompileInputs.cache
+D:\prg\learn\csharp\DelegateEventLambda\01-SimpleDelegate\obj\Debug\net7.0\01-SimpleDelegate.dll
+D:\prg\learn\csharp\DelegateEventLambda\01-SimpleDelegate\obj\Debug\net7.0\refint\01-SimpleDelegate.dll
+D:\prg\learn\csharp\DelegateEventLambda\01-SimpleDelegate\obj\Debug\net7.0\01-SimpleDelegate.pdb
+D:\prg\learn\csharp\DelegateEventLambda\01-SimpleDelegate\obj\Debug\net7.0\01-SimpleDelegate.genruntimeconfig.cache
+D:\prg\learn\csharp\DelegateEventLambda\01-SimpleDelegate\obj\Debug\net7.0\ref\01-SimpleDelegate.dll
