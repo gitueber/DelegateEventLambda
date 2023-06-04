@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-SimpleDelegate", "01-Sim
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-SendingStateThroughDelegate", "02-SendingStateThroughDelegate\02-SendingStateThroughDelegate.csproj", "{A2049803-AD0E-400A-B516-12509ECD25E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-GenericDelegate", "03-GenericDelegate\03-GenericDelegate.csproj", "{5F054F26-8A75-415A-A208-862CCD418942}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-GenericDelegate", "03-GenericDelegate\03-GenericDelegate.csproj", "{5F054F26-8A75-415A-A208-862CCD418942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-ActionFuncDelegate", "04-ActionFuncDelegate\04-ActionFuncDelegate.csproj", "{701B6553-5D2B-4FAF-AE26-B70216AC0F3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{5F054F26-8A75-415A-A208-862CCD418942}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F054F26-8A75-415A-A208-862CCD418942}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F054F26-8A75-415A-A208-862CCD418942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{701B6553-5D2B-4FAF-AE26-B70216AC0F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701B6553-5D2B-4FAF-AE26-B70216AC0F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701B6553-5D2B-4FAF-AE26-B70216AC0F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701B6553-5D2B-4FAF-AE26-B70216AC0F3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
